@@ -1,0 +1,20 @@
+{
+    "type": "responseSoldToData",
+    "soldToList": [
+        {
+            "cityName": "MANHATTAN",
+            "countryCode": "US",
+            "districtName": "RILEY",
+            "hasProgramCode": false,
+            "id": "0000000009",
+            "incotermCode": "CIF",
+            "name": "COMPANY ONE TWO THREE",
+            "postalCode": "66666-0000",
+            "region": "NA",
+            "segments": "0999",
+            "showCheckRolling": false,
+            "showOrderDueByDate": true,
+            "stateCode": "KS"
+        }
+    ]
+}
